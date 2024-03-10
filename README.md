@@ -11,11 +11,19 @@ Platform:Termux
 Nasil Kurulur?;
 
 • $ apt update && apt upgrade
+
 • $ pkg install python
+
 • $ pkg install python2
+
 • $ pkg install git
+
 • $ pkg install figlet
+
 • $ git clone https://github.com/Dirin21/DirinDdos.git
+
 • $ cd DirinDdos
+
 • $ chmod +x DirinDdos.py
+
 • $ python2 DirinDdos.py
